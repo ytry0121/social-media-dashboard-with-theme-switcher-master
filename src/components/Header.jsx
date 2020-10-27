@@ -7,7 +7,6 @@ function Header() {
 
   function darkModeToggle() {
     setIsDerkMode(!isDarkMode);
-    //    document.body.style=(isDarkMode ? 'background-color: hsl(225, 100%, 98%);' : 'background-color: hsl(230, 17%, 14%);');
   }
   function changeBackgroundColor(element,color){
     element.style.backgroundColor=color;

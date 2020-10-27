@@ -142,10 +142,12 @@ input:checked+.slider:before {
     height: 100%;
     padding: 2em 4em 1rem;
     border-radius: 0 0 5px 5px;
+    background-color:hsl(227, 47%, 96%)
 }
 
 .card:hover {
     cursor: pointer;
+    background-color: hsl(227, 47%, 93%);
 }
 
 .big {
