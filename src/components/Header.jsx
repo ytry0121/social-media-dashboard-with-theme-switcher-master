@@ -1,7 +1,7 @@
 import React, { useState } from 'react';
 
 function Header() {
-  const [isDarkMode, setIsDerkMode] = useState(false);
+  const [isDarkMode, setIsDerkMode] = useState(true);
   const cards = [...document.querySelectorAll('.card')];
   const blueTexts = [...document.querySelectorAll('.blue-text')];
 

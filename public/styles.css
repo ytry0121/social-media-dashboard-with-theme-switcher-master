@@ -19,11 +19,11 @@ body {
 }
 
 .blue-text {
-    color: hsl(228, 12%, 44%);
+    color: hsl(228, 34%, 66%);
 }
 
 .green {
-    color: hsl(163, 72%, 41%)
+    color: hsl(163, 72%, 41%);
 }
 
 .red {
@@ -142,12 +142,12 @@ input:checked+.slider:before {
     height: 100%;
     padding: 2em 4em 1rem;
     border-radius: 0 0 5px 5px;
-    background-color:hsl(227, 47%, 96%)
+    background-color:hsl(228, 28%, 27%);
 }
 
 .card:hover {
     cursor: pointer;
-    background-color: hsl(227, 47%, 93%);
+    background-color: hsl(228, 28%, 20%);
 }
 
 .big {
